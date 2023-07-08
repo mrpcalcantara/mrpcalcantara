@@ -4,7 +4,9 @@
 
 I am a Software Engineer with years of experience in iOS development, going the extra mile to ensure the projects are on-time, on-budget and on-target.
 
-Currently working for [Bliss Applications](https://www.blissapplications.com/). You can also check my professional profile: [malcantarabliss](github.com/malcantarabliss/)
+Currently working for [Bliss Applications](https://www.blissapplications.com/). 
+
+You can also check my professional profile: [malcantarabliss](github.com/malcantarabliss/)
 
 # Socials:
 

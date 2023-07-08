@@ -1,6 +1,8 @@
-### Welcome to my GitHub page! 👋
+# Welcome to my GitHub page! 👋
 
-# About me:
+<img src="https://images.unsplash.com/photo-1629324176054-faf971085b46?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80" />
+
+## About me:
 
 I am a Software Engineer with years of experience in iOS development, going the extra mile to ensure the projects are on-time, on-budget and on-target.
 
@@ -8,7 +10,7 @@ Currently working for [Bliss Applications](https://www.blissapplications.com/).
 
 You can also check my professional profile: [malcantarabliss](github.com/malcantarabliss/)
 
-# Socials:
+## Socials:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/miguel-p-alcantara">
@@ -28,9 +30,9 @@ You can also check my professional profile: [malcantarabliss](github.com/malcant
   </a>
 </div>
 
-# Projects worked on:
+## Projects worked on:
 
-## O Meu Pingo Doce:
+### O Meu Pingo Doce:
 
 <img src= "https://play-lh.googleusercontent.com/-KY7h2o5K2v9RgHpT_AGus3CfkE9FqEyGpxqGhLApkjt1RR_7m83pHM8tA2nWnYXNUnb" height="80"/>
 
@@ -39,7 +41,7 @@ You can also check my professional profile: [malcantarabliss](github.com/malcant
 [App Store](https://apps.apple.com/pt/app/o-meu-pingo-doce/id1218939596)
 
 ---
-## moey!
+### moey!
 
 <img src= "https://moey.pt/hubfs/Logo-1.svg" height="80"/>
 
@@ -48,7 +50,7 @@ You can also check my professional profile: [malcantarabliss](github.com/malcant
 [App Store](https://apps.apple.com/us/app/moey-mobile-banking/id1462060959)
 
 ---
-## MBWay
+### MBWay
 
 <img src= "https://www.mbway.pt/wp-content/uploads/2020/07/Logo_MBWay@2x.png" height="80"/>
 
@@ -57,14 +59,14 @@ You can also check my professional profile: [malcantarabliss](github.com/malcant
 [App Store](https://apps.apple.com/us/app/mb-way/id918126133)
 
 ---
-## Omknee
+### Omknee
 
 <img src= "https://omknee.com/img/Logo/Landscape-black.png" height="80"/>
 
 [Website](https://omknee.com/)
 
 ---
-## EDP re:dy
+### EDP re:dy
 
 <img src= "https://upload.wikimedia.org/wikipedia/commons/9/99/EDP_logo.svg" height="80"/>
 

@@ -8,7 +8,7 @@ I am a Software Engineer with years of experience in iOS development, going the 
 
 Currently working for [Bliss Applications](https://www.blissapplications.com/). 
 
-You can also check my professional profile: [malcantarabliss](github.com/malcantarabliss/)
+You can also check my professional profile: [malcantarabliss](https://github.com/malcantarabliss/)
 
 ## Socials:
 
